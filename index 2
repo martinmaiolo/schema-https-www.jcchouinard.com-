@@ -1,0 +1,11 @@
+{
+  "@context": "https:\\/\\/schema.org",
+  "@type": "Person",
+  "@id": "https:\\/\\/www.jcchouinard.com#person",
+  "name": "Jean-Christophe Chouinard",
+  "url": "https:\\/\\/www.jcchouinard.com",
+  "sameAs": [
+    "https:\\/\\/twitter.com\\/chouinardjc",
+    "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+  ]
+}
