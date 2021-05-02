@@ -1,0 +1,1311 @@
+{
+  "@context": "http:\\/\\/schema.org\\/",
+  "@type": "Blog",
+  "headline": "JC Chouinard",
+  "description": "SEO (Search Engine Optimization) Blog",
+  "url": "https:\\/\\/www.jcchouinard.com",
+  "blogPost": [
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/linkedin-api\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/linkedin-api\\/",
+      "headline": "LinkedIn API with Python (Complete Guide)",
+      "datePublished": "2021-02-28T19:34:00-05:00",
+      "dateModified": "2021-03-29T21:52:42-04:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2020\\/11\\/linkedin-with-python-complet-guide.png",
+        "width": 1200,
+        "height": 675
+      },
+      "articleSection": "API",
+      "description": "Welcome to this complete guide on using the LinkedIn API with Python. In this guide, you will learn how to get your credentials, authenticate the API using OAuth 2.0 and make your first text and link post using the LinkedIn API and Python. The guide is simple enough. Look",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/how-to-post-on-linkedin-api-with-python\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/how-to-post-on-linkedin-api-with-python\\/",
+      "headline": "How to Post On LinkedIn API With Python",
+      "datePublished": "2021-02-28T19:20:00-05:00",
+      "dateModified": "2021-03-02T00:15:38-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2020\\/11\\/post-on-linkedin-with-python.png",
+        "width": 1200,
+        "height": 675
+      },
+      "articleSection": "API",
+      "description": "In this tutorial, we will learn how to use the LinkedIn API and Python to make a text post, a link post, and a link post with a mention to a company page. 1. Prepare the Request Let's set up a few things to prepare the API call regardless",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/get-user-information-using-linkedin-api\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/get-user-information-using-linkedin-api\\/",
+      "headline": "LinkedIn API: Get User Information",
+      "datePublished": "2021-02-28T19:20:00-05:00",
+      "dateModified": "2021-03-02T00:13:26-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "API",
+      "description": "For any API call, you will need to have your user URN at hand. In the next script, we will learn how to query your user information using the LinkedIn API. It will be used to get the LinkedIn user ID. The user ID will be used to generate",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/get-your-oauth-credentials-for-linkedin-api\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/get-your-oauth-credentials-for-linkedin-api\\/",
+      "headline": "LinkedIn API: Get Your OAuth Credentials",
+      "datePublished": "2021-02-28T19:20:00-05:00",
+      "dateModified": "2021-02-15T23:43:29-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2020\\/11\\/linkedin-api-oauth.png",
+        "width": 1200,
+        "height": 675
+      },
+      "articleSection": "LinkedIn",
+      "description": "The first step to use the LinkedIn API is to create an app in the LinkedIn Developer Tool. In this tutorial, we will see how you can get your OAuth 2.0 credentials to use the LinkedIn API. Let's look at the steps to create an API app. What you",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/authenticate-to-linkedin-api-using-oauth2\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/authenticate-to-linkedin-api-using-oauth2\\/",
+      "headline": "LinkedIn API: Authenticate Using OAuth 2.0",
+      "datePublished": "2021-02-28T18:39:00-05:00",
+      "dateModified": "2021-02-15T23:44:52-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2020\\/11\\/linkedin-api-authenticated-oauth.png",
+        "width": 1200,
+        "height": 675
+      },
+      "articleSection": "API",
+      "description": "The OAuth 2.0 Protocol is a third party protocol used for authentication and authorization. In this article, we will see how to authenticate the LinkedIn API using OAuth 2.0. If you haven't already, make sure that you read how to get LinkedIn API OAuth credentials before starting this tutorial.",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/wget\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/wget\\/",
+      "headline": "How to use Wget: Install, Commands and Examples (Mac & Windows)",
+      "datePublished": "2021-02-21T23:21:00-05:00",
+      "dateModified": "2021-02-15T23:42:45-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "Web dev",
+      "description": "Wget is free command-line tool that you can use to download files from the internet. In this wget tutorial, we will learn how to install and how to use wget. What is Wget and What Does it Do? WGET is a free tool to crawl websites and download files",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/get-number-of-indexed-pages-on-multiple-sites-with-python\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/get-number-of-indexed-pages-on-multiple-sites-with-python\\/",
+      "headline": "Get (Rough) Number of Indexed Pages on Multiple Sites with Python",
+      "datePublished": "2021-02-01T22:17:04-05:00",
+      "dateModified": "2021-02-04T17:59:11-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "Python",
+      "description": "In this post, we will learn how to check the number of indexed pages on multiple websites using Python and Selenium into a CSV file. Beware, by doing this you are going against Google guidelines on web scraping. Try not to do that at a massive scale. And I",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/a-tribute-to-hamlet-batista\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/a-tribute-to-hamlet-batista\\/",
+      "headline": "A Tribute to Hamlet Batista",
+      "datePublished": "2021-01-28T23:10:24-05:00",
+      "dateModified": "2021-02-18T17:22:01-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "Python",
+      "description": "Help Hamlet Batista's family go through the crisis Gofundme Hamlet has been both a mentor and an inspiration.When I reached out to him as a nobody, asking for his help and he agreed instantly.\"Sure, but I am short on time. When do you need that?\"He was short on time,",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/seo-for-beginners\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/seo-for-beginners\\/",
+      "headline": "SEO for Beginners【2021 update】",
+      "datePublished": "2021-01-20T13:31:00-05:00",
+      "dateModified": "2021-03-10T16:54:31-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "SEO",
+      "description": "You start in SEO and want to rank your website in Google? This is the complete guide to start your own SEO strategy in 2021. You'll find in this post everything you need to get you started with your organic traffic strategy. Note to the reader: I usually write",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/reddit-api\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/reddit-api\\/",
+      "headline": "Reddit API with Python (Complete Guide)",
+      "datePublished": "2021-01-10T12:01:00-05:00",
+      "dateModified": "2021-04-15T19:27:37-04:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2021\\/01\\/reddit-api-complete-guide.png",
+        "width": 1200,
+        "height": 675
+      },
+      "articleSection": "API",
+      "description": "We will look how to get your credentials and to use the API. We will cover everything, from making a simple request, to using the two most popular wrappers: PRAW and Pushshift. From extracting data to posting to a Subreddit.",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/documentation-on-reddit-apis-json\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/documentation-on-reddit-apis-json\\/",
+      "headline": "Reddit API's JSON Documentation",
+      "datePublished": "2021-01-10T12:00:00-05:00",
+      "dateModified": "2021-01-07T22:01:47-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2021\\/01\\/reddit-api-json-documentation.png",
+        "width": 1200,
+        "height": 675
+      },
+      "articleSection": "API",
+      "description": "Translating the Reddit API JSON documentation for humans with code example simple data structure.",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/reddit-api-without-api-credentials\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/reddit-api-without-api-credentials\\/",
+      "headline": "Reddit API Without API Credentials",
+      "datePublished": "2021-01-10T12:00:00-05:00",
+      "dateModified": "2021-01-24T16:51:10-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2020\\/11\\/python-reddit-api-without-credentials.png",
+        "width": 1200,
+        "height": 675
+      },
+      "articleSection": "API",
+      "description": "What is awesome about the Reddit API is that you can extract data from Reddit without any credentials! In this beginner tutorial, I will show you how to scrape Reddit with Python, without using an API key or a wrapper.",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/get-reddit-api-credentials-with-praw\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/get-reddit-api-credentials-with-praw\\/",
+      "headline": "Get Reddit API Credentials  with PRAW",
+      "datePublished": "2021-01-10T12:00:00-05:00",
+      "dateModified": "2021-01-12T22:13:35-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2020\\/11\\/reddit-api-credentials.png",
+        "width": 1200,
+        "height": 675
+      },
+      "articleSection": "API",
+      "description": "In this post, we are going to generate the credentials necessary to run the Reddit API using Python and the PRAW wrapper.",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/post-on-reddit-api-with-python-praw\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/post-on-reddit-api-with-python-praw\\/",
+      "headline": "Post on Reddit API With Python (PRAW)",
+      "datePublished": "2021-01-10T12:00:00-05:00",
+      "dateModified": "2021-02-18T20:26:51-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2020\\/11\\/post-to-subreddit.png",
+        "width": 1200,
+        "height": 675
+      },
+      "articleSection": "API",
+      "description": "In this post, we will see how to post to a subreddit using the PRAW wrapper for the Reddit API.",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/find-competition-gmb-categories-with-python\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/find-competition-gmb-categories-with-python\\/",
+      "headline": "What GMB Categories are the Competition Using?",
+      "datePublished": "2021-01-04T16:59:30-05:00",
+      "dateModified": "2021-01-04T16:59:33-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "Python",
+      "description": "Picking the right GMB categories can be a little daunting, especially when there are thousands to choose from.  There is often no obvious choice, so the best option is sometimes to examine what the competition is doing.",
+      "author": {
+        "@type": "Person",
+        "name": "Zach Todd",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/zach-todd\\/",
+        "description": "Founder of Persuaded.io, a local rank tracker and GMB toolset. Fascinated with all things SEO or programming related, and especially the intersection of the two.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/921dfee32d99fafe98027caba0345905?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/persuaded.io\\/",
+          "https:\\/\\/twitter.com\\/zchtodd"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/get-started-with-django\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/get-started-with-django\\/",
+      "headline": "Get Started With Django (Python Tutorial)",
+      "datePublished": "2021-01-03T00:59:00-05:00",
+      "dateModified": "2021-01-03T17:13:07-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2020\\/12\\/getting-started-with-django.png",
+        "width": 1200,
+        "height": 675
+      },
+      "articleSection": "Python",
+      "description": "In this step-by-step tutorial, you are going to learn how to make the most basic Django Application with Python.",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/python-with-vscode\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/python-with-vscode\\/",
+      "headline": "Python + VSCode. Getting Started.",
+      "datePublished": "2020-12-22T22:03:44-05:00",
+      "dateModified": "2020-12-22T22:03:48-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "Python",
+      "description": "In this tutorial, we are going to learn how to get started using VSCode with Python. ",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/a-year-in-review\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/a-year-in-review\\/",
+      "headline": "2020. A Year in Review (All that I have missed)",
+      "datePublished": "2020-12-16T20:41:00-05:00",
+      "dateModified": "2020-12-17T00:54:23-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "Non classé",
+      "description": "What Google, Facebook, Reddit, Twitter, YouTube and Tiktok have in common? Guess what. People have talked about Covid-19, Black Lives Matter and Kobe Bryant. We shouldn't forget Tiger King, US Election and Jordan's Last Dance documentary that let us escape out of COVID-19 even for a while. Here are",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/alert-robots-txt-changes-to-slack-using-python\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/alert-robots-txt-changes-to-slack-using-python\\/",
+      "headline": "Alert Robots.txt Changes to Slack using Python",
+      "datePublished": "2020-12-13T19:05:00-05:00",
+      "dateModified": "2020-12-03T23:57:04-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "Python",
+      "description": "In this post, we will implement and smoke test to check whether the robots.txt file changed. When the robots.txt file is changed, it will back up the previous version and send an alert to the Slack API. To set-up a robots.txt smoke test in Python: Create hygiene functions to",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/slack-api\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/slack-api\\/",
+      "headline": "Slack API with Python (Complete Guide)",
+      "datePublished": "2020-12-13T18:53:00-05:00",
+      "dateModified": "2020-12-03T23:57:51-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "API",
+      "description": "Welcome to this complete guide on using the Slack API with Python. In this guide, you will learn how to get your credentials, send your first message and learn by example by sending Robots.txt changes alerts to Slack. If you don't know how to use Python, just read my",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/send-message-with-slack-api-and-python\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/send-message-with-slack-api-and-python\\/",
+      "headline": "Send Message With Slack API and Python",
+      "datePublished": "2020-12-13T18:45:00-05:00",
+      "dateModified": "2021-01-03T21:20:49-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "Python",
+      "description": "It is time to send your first message using the Slack API and Python. Sending a message is very simple, even for Python beginners. I will show you the step-by-step code to send a message to Slack with Python. If you know nothing about python, I suggest that you",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/slack-api-webhooks\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/slack-api-webhooks\\/",
+      "headline": "Get the Slack API Credentials (Webhooks)",
+      "datePublished": "2020-12-13T18:36:00-05:00",
+      "dateModified": "2020-12-03T23:56:46-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "Automation",
+      "description": "To post to Slack API with Python you will need to create a Slack API app and get the Webhook URL. In this step-by-step guide, we will see how to get the webhook necessary to use the Slack API. Create Slack AppAdd the Incoming WebhooksActivate the WebhooksAdd the Webhooks",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/pandas-excel\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/pandas-excel\\/",
+      "headline": "18 Pandas Functions to Replace Excel with Python (and be happy forever)",
+      "datePublished": "2020-11-30T18:03:43-05:00",
+      "dateModified": "2021-02-28T23:03:16-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "Python",
+      "description": "Excel is the worst. If you want to live a long and healthy life, drop it. Excel does nothing that Python can't do better. Let's learn a little bit about Python Pandas. If you drop Excel for Python (and I mean, never use Excel EVER), I guarantee you that",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/how-to-find-any-linkedin-company-id\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/how-to-find-any-linkedin-company-id\\/",
+      "headline": "How to Find Any LinkedIn Company ID",
+      "datePublished": "2020-11-29T18:22:00-05:00",
+      "dateModified": "2021-03-30T00:09:18-04:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "LinkedIn",
+      "description": "Finding any LinkedIn company ID is super easy. Go to the company page on LinkedIn and click on \"See all X employees on LinkedIn\". The company ID is in the URL after the \"?facetCurrentCompany=%5B\" parameter. Why is the Company ID Useful? The first thing that comes to mind is",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/deploy-a-flask-app-on-heroku\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/deploy-a-flask-app-on-heroku\\/",
+      "headline": "Deploy a Flask App on Heroku",
+      "datePublished": "2020-11-25T21:12:40-05:00",
+      "dateModified": "2021-02-18T17:12:38-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "Non classé",
+      "description": "Heroku lets you deploy a Flask app online for free. This is a fantastic option to test dev environments, to make SEO tests in Google Search Console or to make a python a public app to showcase your work without paying for hosting and for a domain name. If",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/post-to-groups-using-facebook-graph-api-python\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/post-to-groups-using-facebook-graph-api-python\\/",
+      "headline": "Facebook Graph API: Post to Groups using Python",
+      "datePublished": "2020-11-22T18:58:00-05:00",
+      "dateModified": "2021-03-01T22:35:14-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2020\\/11\\/post-to-groups-facebook-api.png",
+        "width": 1200,
+        "height": 675
+      },
+      "articleSection": "API",
+      "description": "In this guide, I will show you how to use Python and the Facebook Graph API to post to Facebook Groups. Example of Automated Post This tutorial is very simple and will give you basics to learn how to use the Facebook API with Python. If you know nothing",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/facebook-graph-api-get-access-token\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/facebook-graph-api-get-access-token\\/",
+      "headline": "Facebook Graph API: Get Access Token",
+      "datePublished": "2020-11-22T18:57:00-05:00",
+      "dateModified": "2021-01-24T16:50:24-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2020\\/11\\/get-access-token-facebook-api.png",
+        "width": 1200,
+        "height": 675
+      },
+      "articleSection": "API",
+      "description": "The first step to being able to use the Facebook Graph API is to get your access token. In this post, we will look at all the steps you need to get a long-lived access token to post in Facebook Groups using the Facebook API and Python. If you",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/gitignore-template\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/gitignore-template\\/",
+      "headline": "Simple .gitignore Template",
+      "datePublished": "2020-11-19T18:27:57-05:00",
+      "dateModified": "2020-11-19T18:30:55-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "Web dev",
+      "description": "The .gitignore file is useful to specify what you want, and what you don't want to be committed to Github. ",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/check-verified-properties-in-gsc-site-api\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/check-verified-properties-in-gsc-site-api\\/",
+      "headline": "How to Extract Verified Properties using Google Search Console API and Python",
+      "datePublished": "2020-11-02T18:59:00-05:00",
+      "dateModified": "2021-03-29T17:07:49-04:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "API",
+      "description": "In this post, I will show you how to check verified properties in Google Search Console using Python and the API. This module will be useful when you want to run Google Search Console extraction on all your properties without manually listing it. It will return something like this:",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    },
+    {
+      "@context": "https:\\/\\/schema.org\\/",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/authorise-requests-to-gsc-api-using-oauth-2-0\\/"
+      },
+      "url": "https:\\/\\/www.jcchouinard.com\\/authorise-requests-to-gsc-api-using-oauth-2-0\\/",
+      "headline": "Authorise Requests to GSC API Using OAuth 2.0",
+      "datePublished": "2020-11-02T18:57:00-05:00",
+      "dateModified": "2020-11-04T17:17:35-05:00",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https:\\/\\/www.jcchouinard.com\\/#organization",
+        "name": "Jean-Christophe Chouinard",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/www.jcchouinard.com\\/wp-content\\/uploads\\/2019\\/11\\/jean-christophe-chouinard-seo-expert-quebec.jpg",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "articleSection": "API",
+      "description": "In this post, I will show you the function that I created to authorise requests to the Google Search Console API using OAuth 2.0. To run this, you will need to get a client_secrets.json file with your credentials. Check out how you can get Google Search Console OAuth Credentials.",
+      "author": {
+        "@type": "Person",
+        "name": "Jean-Christophe Chouinard",
+        "url": "https:\\/\\/www.jcchouinard.com\\/author\\/jean-christophe-chouinard\\/",
+        "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\\/\\/secure.gravatar.com\\/avatar\\/dba1969281dd0b5ed495970205743acd?s=96&d=mm&r=g",
+          "height": 96,
+          "width": 96
+        },
+        "sameAs": [
+          "https:\\/\\/twitter.com\\/ChouinardJC",
+          "https:\\/\\/www.linkedin.com\\/in\\/jeanchristophechouinard\\/"
+        ]
+      }
+    }
+  ]
+}
