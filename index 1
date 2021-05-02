@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Person",
+        "Organization"
+      ],
+      "@id": "https://www.jcchouinard.com/#/schema/person/c2a8687ab0beb6ed1ac557d06d000c6b",
+      "name": "Jean-Christophe Chouinard",
+      "image": {
+        "@type": "ImageObject",
+        "@id": "https://www.jcchouinard.com/#personlogo",
+        "inLanguage": "fr-FR",
+        "url": "https://www.jcchouinard.com/wp-content/uploads/2019/12/jean-christophe-chouinard.jpg",
+        "contentUrl": "https://www.jcchouinard.com/wp-content/uploads/2019/12/jean-christophe-chouinard.jpg",
+        "width": 200,
+        "height": 200,
+        "caption": "Jean-Christophe Chouinard"
+      },
+      "logo": {
+        "@id": "https://www.jcchouinard.com/#personlogo"
+      },
+      "description": "Sr SEO Specialist at Seek (Melbourne, Australia). Specialized in technical SEO. In a quest to programmatic SEO for large organizations through the use of Python, R and machine learning.",
+      "sameAs": [
+        "https://www.linkedin.com/in/jeanchristophechouinard/",
+        "https://twitter.com/ChouinardJC"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.jcchouinard.com/#website",
+      "url": "https://www.jcchouinard.com/",
+      "name": "JC Chouinard",
+      "description": "SEO (Search Engine Optimization) Blog",
+      "publisher": {
+        "@id": "https://www.jcchouinard.com/#/schema/person/c2a8687ab0beb6ed1ac557d06d000c6b"
+      },
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "target": "https://www.jcchouinard.com/?s={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      ],
+      "inLanguage": "fr-FR"
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://www.jcchouinard.com/#webpage",
+      "url": "https://www.jcchouinard.com/",
+      "name": "Jean-Christophe Chouinard - SEO (Search Engine Optimization) Blog",
+      "isPartOf": {
+        "@id": "https://www.jcchouinard.com/#website"
+      },
+      "about": {
+        "@id": "https://www.jcchouinard.com/#/schema/person/c2a8687ab0beb6ed1ac557d06d000c6b"
+      },
+      "description": "Jean-Christophe Chouinard is an SEO/SEM Expert in Quebec City giving technical SEO tutorials. Specialized in technical SEO. Jcchouinard.com is a blog about programmatic SEO for large organizations through the use of Python, R and machine learning.",
+      "breadcrumb": {
+        "@id": "https://www.jcchouinard.com/#breadcrumb"
+      },
+      "inLanguage": "fr-FR",
+      "potentialAction": [
+        {
+          "@type": "ReadAction",
+          "target": [
+            "https://www.jcchouinard.com/"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.jcchouinard.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.jcchouinard.com/#webpage"
+          }
+        }
+      ]
+    }
+  ]
+}
